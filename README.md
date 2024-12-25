@@ -9,9 +9,16 @@ Hi there! I'm Malvin, a university student at the Sepuluh Nopember Institute of 
 ---
 
 ## 📈 **GitHub Stats**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=malvinlh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="50%" style="margin-bottom: 20px;"> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinlh&layout=compact&theme=tokyonight" alt="Top Languages" width="50%">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvinlh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="100%" style="margin-bottom: 20px;">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinlh&layout=compact&theme=tokyonight" alt="Top Languages" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
