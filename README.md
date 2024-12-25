@@ -32,7 +32,6 @@ Hi there! I'm Malvin, a university student at the Sepuluh Nopember Institute of 
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -44,6 +43,6 @@ Hi there! I'm Malvin, a university student at the Sepuluh Nopember Institute of 
 
 ## 📈 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvinlh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="175"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvinlh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="175"> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinlh&layout=compact&theme=tokyonight" alt="Top Languages" height="175">
 </div>
