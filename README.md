@@ -1,5 +1,4 @@
 # 👋 Welcome to My GitHub!  
-[![](https://visitcount.itsvg.in/api?id=malvinlh&icon=0&color=0)](https://visitcount.itsvg.in)
 🌟 Hi there! I'm Malvin, a university student at the Sepuluh Nopember Institute of Technology (ITS) in Surabaya, Indonesia. I'm passionate about Game Development and Artificial Intelligence, and I’ve had the chance to work on some exciting projects—both individually and as part of a team.
 
 ---
@@ -10,8 +9,7 @@
 ---
 
 ## 📈 **GitHub Stats**
-![](https://github-readme-streak-stats.herokuapp.com/?user=malvinlh&theme=tokyonight&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malvinlh&layout=compact&theme=tokyonight)
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvinlh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinlh&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"> </div>
 
 ---
 
