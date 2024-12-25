@@ -9,7 +9,7 @@
 ---
 
 ## 📈 **GitHub Stats**
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvinlh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinlh&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"> </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malvinlh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="50%" style="margin-bottom: 20px;"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinlh&layout=compact&theme=tokyonight" alt="Top Languages" width="50%">
 
 ---
 
