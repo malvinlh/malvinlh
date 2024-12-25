@@ -1,17 +1,6 @@
 # 👋 Welcome to My GitHub!  
 
-🌟 Hi there! I'm **Malvin**, a passionate **developer/designer** with a knack for building innovative projects and exploring new technologies.  
-
----
-
-## 🔭 **What I’m working on right now**  
-- 🚀 A **third-person rocket-driving system** for galaxy exploration in Unity   
-
----
-
-## 🌐 **Current Interests**  
-- 🎮 Game development with Unity  
-- 🌟 AI and computer vision  
+🌟 Hi there! I'm Malvin, a university student at the Sepuluh Nopember Institute of Technology (ITS) in Surabaya, Indonesia. I'm passionate about Game Development and Artificial Intelligence, and I’ve had the chance to work on some exciting projects—both individually and as part of a team. Whether it's exploring the universe through code or building smarter systems, I’m always up for a challenge!
 
 ---
 
@@ -22,11 +11,6 @@
 ![Unity](https://img.shields.io/badge/Framework-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Clip Studio Paint](https://img.shields.io/badge/Design-ClipStudioPaint-FF4100?style=for-the-badge&logo=clip-studio-paint&logoColor=white)
-
----
-
-## ✨ **Featured Projects**
-- 🌎 **Planet Tracker:** Augmented reality planet tracker using 8th Wall and NASA APIs  
 
 ---
 
