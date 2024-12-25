@@ -11,11 +11,19 @@
 ## 📈 **GitHub Stats**
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=malvinlh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="50%" style="margin-bottom: 20px;"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinlh&layout=compact&theme=tokyonight" alt="Top Languages" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinlh&layout=compact&theme=tokyonight" alt="Top Languages" width="50%">
 
 ---
 
 ## 🌟 **Let’s Connect!**
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malvinleoo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malvin-leonardo-hartanto/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?logo=itchdotio&logoColor=white)](https://mileonstudio.itch.io/)
+<div align="center">
+  <a href="https://instagram.com/malvinleoo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="height: 40px;">
+  </a>
+  <a href="https://www.linkedin.com/in/malvin-leonardo-hartanto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;">
+  </a>
+  <a href="https://mileonstudio.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?logo=itchdotio&logoColor=white" alt="Itch.io" style="height: 40px;">
+  </a>
+</div>
