@@ -7,7 +7,7 @@ Hi there! I'm Malvin, a university student at the Sepuluh Nopember Institute of 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malvin-leonardo-hartanto/) &nbsp;&nbsp;&nbsp; [![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white)](https://mileonstudio.itch.io/) &nbsp;&nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/malvinleoo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malvin-leonardo-hartanto/) &nbsp;&nbsp;&nbsp; [![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white)](https://mileon-studio.itch.io/) &nbsp;&nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/malvinleoo)
 
 </div>
 
