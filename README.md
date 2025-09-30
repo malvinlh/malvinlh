@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub!
 <div align="justify">
   
-Hi there! I'm Malvin, a university student at the Sepuluh Nopember Institute of Technology (ITS) in Surabaya, Indonesia. I'm passionate about **Game Development** and **Artificial Intelligence**, and I've had the opportunity to contribute to exciting projects both individually and as part of a team. I look forward to connecting and creating something amazing together!
+Hi there! I'm Malvin, a university student at the Sepuluh Nopember Institute of Technology (ITS) in Surabaya, Indonesia. I'm passionate about **Web and Game Development** as well as **Artificial Intelligence**, and I've had the opportunity to contribute to exciting projects both individually and as part of a team. I look forward to connecting and creating something amazing together!
 
 </div>
 
